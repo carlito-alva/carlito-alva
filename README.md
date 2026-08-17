@@ -208,8 +208,7 @@ Instituto Tecnológico de Durango
 ## 👀 Visitor Count
 
 <div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/carlito-alva/count.svg" alt="Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=carlito-alva&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---

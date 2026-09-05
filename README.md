@@ -2,7 +2,7 @@
 
 ### Software Engineer | Full-Stack Developer
 
-I'm a **Full-Stack Software Engineer with 7+ years of experience** building scalable and maintainable web applications.
+I'm performing **Full-Stack roles but my profile is related to Software Engineer with 7+ years of experience** building scalable and maintainable web applications.
 
 I enjoy working across the stack, from designing frontend experiences to building backend services, APIs, databases, and CI/CD pipelines. I'm particularly interested in **software architecture, clean code, performance, testing, and developer experience**.
 
